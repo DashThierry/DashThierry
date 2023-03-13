@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DashThierry
-- 👀 Based on Sign Language Interpreter
+- 👀 Based on Software Developer,computer science
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate with different software engneers
